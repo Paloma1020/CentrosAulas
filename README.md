@@ -14,7 +14,7 @@ Sistema completo de gestión de tareas con:
 ### Backend
 
 ```bash
-cd apiaulasusuarios
+cd CentrosAulas
 .\mvnw.cmd spring-boot:run
 ```
 Backend en http://localhost:8080
@@ -22,7 +22,7 @@ Backend en http://localhost:8080
 ### Frontend
 
 ```bash
-cd apiaulasusuarios/fronescuala
+cd CentrosAulas/fronescuala
 npm run dev
 ```
 Frontend en http://localhost:5173
