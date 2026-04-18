@@ -122,7 +122,6 @@ demo/
 
 ## Documentación
 - `API_DOCUMENTATION.md`- Documentación detallada de la API REST
-- `docs/API_ROUTES.md` - Rutas de la API
-- `AGENTS.md` - Guía para desarrolladores
-- `fronescuelas/README.md` - Documentación del frontend
+- `README.MD` - Descripción general del proyecto y su estructura.
+- `fronescuelas/AGENT.md` - Documentación del frontend
 - `fronescuelas/PROMPTS.md`- Prompts más importantes.
